@@ -1,2 +1,2 @@
-<h1>Galería de imágenes Responsive</h1>
+<h3>Galería de imágenes Responsive</h3>
 
