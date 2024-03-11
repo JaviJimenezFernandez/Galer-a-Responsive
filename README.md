@@ -5,6 +5,6 @@
 <br>
 <h3>Tecnologías usadas</h3>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
 </ul>
